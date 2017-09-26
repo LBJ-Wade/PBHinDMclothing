@@ -1,0 +1,7 @@
+*.bbl
+*.aux
+*.blg
+*.log
+*.synctex.gz
+*.out
+*/.ipynb_checkpoints/*
